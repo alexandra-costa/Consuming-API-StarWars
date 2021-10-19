@@ -17,6 +17,7 @@ height: 3em ;
 }
 
 .btn-sec {
+background-color: rgb(255, 217, 0);    
 width: 5em ;
 border-radius: 15px ;
 }
@@ -26,8 +27,8 @@ border-radius: 15px ;
 }
 
 #paragrafo {
-    color: black ;
-    background-color: white;
+    color: rgb(255, 217, 0) ;
+    background-color: black;
     padding: 2em;
     margin: 8px;
     border-radius: 5px;
